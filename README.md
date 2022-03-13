@@ -24,7 +24,6 @@ Flutter language. It works with Firebase database. All codes are unique.
 ![Slayt2](https://user-images.githubusercontent.com/64610669/158065320-85a9c17f-83e6-4764-9642-aed8f33f8273.JPG)
 ![Slayt3](https://user-images.githubusercontent.com/64610669/158065321-4e4058b9-43e5-40db-ade6-3752f322c3c1.JPG)
 ![Slayt4](https://user-images.githubusercontent.com/64610669/158065323-783abfdf-e85a-44dd-a651-85c6046aadea.JPG)
-![Slayt5](https://user-images.githubusercontent.com/64610669/158065324-24baac24-71f5-49d2-b114-45bc3be5b81d.JPG)
 ![Slayt6](https://user-images.githubusercontent.com/64610669/158065325-0bf302cc-43e5-4776-9e21-e185dd81086f.JPG)
 ![Slayt7](https://user-images.githubusercontent.com/64610669/158065326-54fc0a35-365c-471e-9658-e3f79d0fd093.JPG)
 ![Slayt8](https://user-images.githubusercontent.com/64610669/158065327-82a62fee-61ba-4d7f-9984-d9d3463d71ca.JPG)
