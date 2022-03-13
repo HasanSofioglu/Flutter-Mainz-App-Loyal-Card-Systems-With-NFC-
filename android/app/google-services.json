@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "300024230937",
+    "project_id": "endformainz",
+    "storage_bucket": "endformainz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300024230937:android:53cb635520ff5c0e79e688",
+        "android_client_info": {
+          "package_name": "com.example.formainz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300024230937-81p795rb2brbv2us4a570d72djh7bfg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.formainz",
+            "certificate_hash": "6dac616a172744932af94dbf221bfce2c29467f5"
+          }
+        },
+        {
+          "client_id": "300024230937-popkl5nlsmvbjuei55og8rit1quukodi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_I7QuUNpu-9ZKt0ZG_xE3xAHdVCwhGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300024230937-popkl5nlsmvbjuei55og8rit1quukodi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
